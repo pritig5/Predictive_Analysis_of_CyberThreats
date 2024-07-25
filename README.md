@@ -10,6 +10,8 @@ Cyber Threat Evolution: With cyber threats becoming increasingly sophisticated a
 
 5. Preserving Trust and Reputation: Maintaining trust with customers, partners, and stakeholders is paramount. Proactive cybersecurity measures help uphold reputation and credibility by demonstrating a commitment to security.
 
-![image](https://github.com/user-attachments/assets/a4d685af-a68c-4a88-b43f-f8cc71f05f47)
 
-![tableau analysis](https://github.com/user-attachments/assets/70e61b11-6a91-4847-9c17-fbafe9a8b4da)
+![tableau analysis](https://github.com/user-attachments/assets/3b56616e-ec12-44b5-a57d-ceff2345d162)
+
+
+![world map](https://github.com/user-attachments/assets/4595fd6e-99be-4aa1-8cb8-7706020c819f)
